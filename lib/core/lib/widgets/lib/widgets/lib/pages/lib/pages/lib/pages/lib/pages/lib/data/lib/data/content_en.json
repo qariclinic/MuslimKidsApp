@@ -1,0 +1,11 @@
+{
+  "app_title": { "ur": "مسلم کڈز", "ar": "مسلم كيدز", "en": "Muslim Kids" },
+  "wudu_title": { "ur": "وضو، تیمم، غسل", "ar": "الوضوء والتيمم والغسل", "en": "Wudu, Tayammum, Ghusl" },
+  "wudu_steps": { "ur": "۱) نیت ۲) ہاتھ ۳) کلی ۴) ناک ۵) چہرہ ۶) بازو ۷) مسح ۸) پاؤں", "ar": "١) النية ٢) اليدان ٣) المضمضة ٤) الاستنشاق ٥) الوجه ٦) الذراعان ٧) المسح ٨) الرجلان", "en": "1) Intention 2) Hands 3) Rinse mouth 4) Nose 5) Face 6) Arms 7) Wipe head 8) Feet" },
+  "salah_title": { "ur": "نماز: فرائض، واجبات، سنتیں", "ar": "الصلاة: الفرائض والواجبات والسنن", "en": "Salah: Faraiz, Wajibat, Sunan" },
+  "salah_faraiz": { "ur": "نماز کے فرائض: قیام، قراءت، رکوع، سجدہ، آخری قعدہ", "ar": "فرائض الصلاة: القيام والقراءة والركوع والسجود والقعدة الأخيرة", "en": "Faraiz: Standing, Recitation, Ruku, Sujood, Final sitting" },
+  "salah_wajibat": { "ur": "واجبات: قعدہ اولیٰ، قنوت، تشہد وغیرہ", "ar": "الواجبات: القعدة الأولى والقنوت والتشهد وغيرها", "en": "Wajibat: First sitting, Qunoot, Tashahhud etc." },
+  "salah_sunan": { "ur": "سنتیں: تکبیر اُولىٰ، رفع یدین (جہاں ہو)، سورت ملانا، اعتدال و اطمینان", "ar": "السنن: التكبيرة الأولى، رفع اليدين حيث يثبت، قراءة سورة، الاعتدال", "en": "Sunan: First takbeer, raising hands (where applicable), adding a Surah, calmness" },
+  "fasting_title": { "ur": "روزہ: نیت و اعمال", "ar": "الصوم: النية والأعمال", "en": "Fasting: Intention & Acts" },
+  "fasting_acts": { "ur": "سحری، نیت، روزے کا احترام، افطار میں اعتدال", "ar": "السحور، النية، احترام الصوم، الاعتدال في الإفطار", "en": "Suhoor, Intention, Respecting fast, Moderate Iftar" }
+}
