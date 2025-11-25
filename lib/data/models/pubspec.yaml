@@ -1,0 +1,39 @@
+name: muslim_kids
+description: Muslim Kids - تعلیم و تربیت (UR/AR/EN)
+version: 1.0.0+1
+publish_to: "none"
+
+environment:
+  sdk: ">=3.3.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  google_fonts: ^6.2.1
+  flutter_localizations:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/logo-shoaib.png
+    - assets/images/bg-gradient.png
+    - assets/audio/kids-click.mp3
+    - lib/data/content_ur.json
+    - lib/data/content_en.json
+    - lib/data/content_ar.json
+
+  fonts:
+    - family: NotoNaskhArabic
+      fonts:
+        - asset: assets/fonts/NotoNaskhArabic-Regular.ttf
+    - family: NotoSans
+      fonts:
+        - asset: assets/fonts/NotoSans-Regular.ttf
